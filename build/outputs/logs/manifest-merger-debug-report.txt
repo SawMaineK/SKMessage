@@ -1,0 +1,21 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\@Android Library\SKAlertMessage\AndroidManifest.xml:1:1-10:12
+	xmlns:android
+		ADDED from D:\Android\@Android Library\SKAlertMessage\AndroidManifest.xml:1:11-69
+	package
+		ADDED from D:\Android\@Android Library\SKAlertMessage\AndroidManifest.xml:2:5-37
+	android:versionName
+		ADDED from D:\Android\@Android Library\SKAlertMessage\AndroidManifest.xml:4:5-30
+		INJECTED from D:\Android\@Android Library\SKAlertMessage\AndroidManifest.xml
+		INJECTED from D:\Android\@Android Library\SKAlertMessage\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Android\@Android Library\SKAlertMessage\AndroidManifest.xml:3:5-28
+		INJECTED from D:\Android\@Android Library\SKAlertMessage\AndroidManifest.xml
+		INJECTED from D:\Android\@Android Library\SKAlertMessage\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Android\@Android Library\SKAlertMessage\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from D:\Android\@Android Library\SKAlertMessage\AndroidManifest.xml:8:9-38
+	android:minSdkVersion
+		ADDED from D:\Android\@Android Library\SKAlertMessage\AndroidManifest.xml:7:9-34

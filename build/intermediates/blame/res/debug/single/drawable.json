@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\@Android Library\\SKAlertMessage\\build\\intermediates\\res\\merged\\debug\\drawable\\sk_toast_message_selector_error.xml",
+        "source": "D:\\Android\\@Android Library\\SKAlertMessage\\res\\drawable\\sk_toast_message_selector_error.xml"
+    },
+    {
+        "merged": "D:\\Android\\@Android Library\\SKAlertMessage\\build\\intermediates\\res\\merged\\debug\\drawable\\sk_toast_message_selector_info.xml",
+        "source": "D:\\Android\\@Android Library\\SKAlertMessage\\res\\drawable\\sk_toast_message_selector_info.xml"
+    },
+    {
+        "merged": "D:\\Android\\@Android Library\\SKAlertMessage\\build\\intermediates\\res\\merged\\debug\\drawable\\sk_toast_message_selector_warning.xml",
+        "source": "D:\\Android\\@Android Library\\SKAlertMessage\\res\\drawable\\sk_toast_message_selector_warning.xml"
+    },
+    {
+        "merged": "D:\\Android\\@Android Library\\SKAlertMessage\\build\\intermediates\\res\\merged\\debug\\drawable\\sk_toast_message_selector_success.xml",
+        "source": "D:\\Android\\@Android Library\\SKAlertMessage\\res\\drawable\\sk_toast_message_selector_success.xml"
+    }
+]
